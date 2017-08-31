@@ -1,4 +1,4 @@
-# sonegatorz
+# Sonegators
 Projetos do 4º periodo de SI
 
 1 - Banco de Dados (IF976):
