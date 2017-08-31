@@ -8,6 +8,7 @@ Projetos do 4º periodo de SI
 * Grupo do Facebook: https://www.facebook.com/groups/265628113924555/
 * Pasta do Google Drive (criada por mim): https://drive.google.com/open…
 ### Engenharia de Software (IF977):
+* PROJETO SONEGATORS: https://github.com/IF977/Equipe-6
 * Site da disciplina: https://sites.google.com/a/cin.ufpe.br/if977/
 * Grupo do Slack: https://if977-2017-2.slack.com/signup
 * Grupo do Facebook: https://www.facebook.com/groups/229376600477111/
