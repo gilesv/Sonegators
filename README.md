@@ -3,6 +3,8 @@ Projetos do 4º periodo de SI
 
 Drive Sonegators: https://drive.google.com/drive/u/1/folders/0B-qQBWEWGeTkeUlKc0FmS2JaaEk
 
+Discord Sonegators : https://discord.gg/pP5hsSh
+
 ### Banco de Dados (IF976):
 * Site da disciplina: https://sites.google.com/a/cin.ufpe.br/if976si/
 * Lista no Google Groups: if976si@googlegroups.com 
