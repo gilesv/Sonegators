@@ -22,6 +22,7 @@ Discord Sonegators : https://discord.gg/pP5hsSh
 * https://sge20172.slack.com/join/shared_invite/MjI2NTY0NDkxMjk3LTE1MDI4MzY5NzktNjlkMTQxNjljNw (Para ingressar no grupo)
 * Grupo do WhatsApp: https://chat.whatsapp.com/4iIKBou6zlZHugFy39vJHm
 * Pasta do Google Drive (criada pela prof): https://drive.google.com/drive/u/0/folders/0ByxRpJ_3qDOMYjF4TlI4WHlyZTA
+* Link dos módulos do SIPAC: https://goo.gl/eMQLQQ
 ### Gestão de Processos de Negócio (IF978):
 * Site da disciplina: https://sites.google.com/site/gpnif978/
 * Lista no Google Groups: gpnif978+subscribe@googlegroups.com
