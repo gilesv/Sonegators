@@ -14,7 +14,7 @@ Discord Sonegators : https://discord.gg/pP5hsSh
 ### Engenharia de Software (IF977):
 * PROJETO SONEGATORS: https://github.com/IF977/Equipe-6
 * Site da disciplina: https://sites.google.com/a/cin.ufpe.br/if977/
-* Grupo do Slack: https://if977-2017-2.slack.com/signup
+* Grupo do Slack: https://if977-2017-2.slack.com/signin
 * Grupo do Facebook: https://www.facebook.com/groups/229376600477111/
 * Pasta do Google Drive (criada por mim): https://drive.google.com/drive/u/1/folders/0B9jycT16bJbyRkRvVUFlRWxCcm8
 ### Sistemas de Gestão Empresarial (IF980):
